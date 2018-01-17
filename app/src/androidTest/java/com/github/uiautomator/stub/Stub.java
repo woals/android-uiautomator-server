@@ -81,8 +81,8 @@ public class Stub {
 //            return;
 //        }
 
-        Log.i(TAG, "Launch service");
-        context.startService(new Intent("com.github.uiautomator.ACTION_START"));
+//        Log.i(TAG, "Launch service");
+//        context.startService(new Intent("com.github.uiautomator.ACTION_START"));
 
 //        Log.i(TAG, "Launch " + packageName);
 //        final Intent intent = context.getPackageManager()
